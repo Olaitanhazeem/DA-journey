@@ -16,7 +16,7 @@ This data was sourced from NG30DAYSOFLEARNING.
 
 ------
 # Data cleaning
-the data for this project came 100% clean.No cleaninig was donr in the process of the project.
+the data for this project came 100% clean.No cleaninig was done in the process of the project.
 
 ----
 # Findings & Recommendations
